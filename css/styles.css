@@ -3,7 +3,7 @@
 /* Header*/
 
 body {
-    background: lightblue;
+    background-image: url("http://cdn.wallpapersafari.com/86/97/uwBUHc.jpg");
     font-family: 'Open Sans', sans-serif;
     
     
@@ -13,33 +13,59 @@ body {
 
 
 .cd-header {
-    background: #a10022;
-    
-    
-    
+    background: url(http://pbs.twimg.com/profile_background_images/293124852/EagBG.jpg); 
+    background-size: auto 100%;
+    background-repeat: repeat;
+    background-position: left top;
+  
 }
 
 .cd-header h1 {
+    
     font-size: 5rem;
     font-weight: 700;
     
     
 }
 
-p {
-    font-family: 'Oswald', sans-serif;
+.numbers{
+    color: #a10022;
+     text-shadow: 1px 1px 1px white;
     
     
     
 }
 
+
+
+.course {
+
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 3em;
+    font-style: oblique;
+    font-weight: 900;
+    padding-bottom: 10px
+}
+
+
+
+
+p {
+font-family: 'Oswald', sans-serif;
+color: white;
+background: rgba(255, 255, 255, 0.3);
+padding: 1em;
+border-radius: 1em
+}
+
 h3 {
 font-family: 'Anton', sans-serif; 
 font-size: 2.4rem;
-font-weight: 300; 
-    
-    
-    
+font-weight: 600; 
+color: white;
+text-shadow: 2px 1px  0px #a10022;  
+padding: 0.5em;    
     
     
     
@@ -49,10 +75,12 @@ font-weight: 300;
 
 
 .cd-tab-filter-wrapper {
-    background-color: black;
+   
     
     
-    
+    background: url(http://www.whitelabelsportsbook.com/wp-content/uploads/2014/04/white-lines-image-colours-hd-wallpaper-abstract-picture-cool-white-background1-1024x640.png);
+     background-size: 100% 100%;
+   
     
     
 }
